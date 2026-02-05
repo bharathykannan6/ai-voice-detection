@@ -1,0 +1,9 @@
+# Place your trained model here
+
+Copy `voice_detector.pkl` from your local training to this folder.
+
+The model should be at:
+`C:\AI VOICE DETECTION\AI_Voice_API\models\voice_detector.pkl`
+
+Copy it to:
+`models/voice_detector.pkl` (this folder)
